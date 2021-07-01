@@ -1,0 +1,135 @@
+body{
+color: #592d86;
+background-color:  #cdb3e5;
+font-family: Comic Sans MS;
+}
+
+#all{
+margin-top: 40px;
+padding: 50px 40px;
+border: 2px solid #592d86;
+border-radius: 20px;
+background-image: url("Medt_Proj_Berg.jpg");
+background-repeat: repeat-y;
+}
+
+label{
+display:inline-block;
+color: #592d86;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+
+#suchfeld{
+min-width: 5px;
+max-width: 15%;
+}
+
+#button1{
+font-family: Comic Sans MS;
+background-color: #592d86;
+color: white;
+margin: 5px;
+padding:10px;
+border: 1px solid purple;
+border-radius: 5px;	
+}
+
+#button2{
+font-family: Comic Sans MS;
+background-color: #592d86;
+color: white;
+margin: 5px;
+padding:10px;
+border: 1px solid purple;
+border-radius: 5px;
+}
+
+#outputfeld{
+height: 40px;
+}
+
+#sort{	
+margin-top: 70px;
+}
+
+#sortausg{
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+border: 1px solid purple;
+border-radius: 5px;
+background-color:  #592d86;
+}
+
+table{
+background-color: #a77ad1;
+padding: 5px;
+border-radius: 4px;	
+}
+
+th, td{
+border: 1px solid purple;
+border-radius: 4px;
+padding:  4px 6px;
+background-color:white;
+}
+
+th{
+	background-color:#cdb3e5;
+}
+
+#fufafe{
+padding: 25px;
+padding-top: 20px;
+padding-bottom: 20px;
+text-align: justify;
+background-color: #f2ecf9;
+border: 2px solid purple;
+border-radius: 20px;
+/*min-height: 1085px;*/
+}
+
+#fufafetitle{
+font-size: 25px;
+font-weight: bold;
+margin-top: 0px;
+padding: 5px 10px;
+text-align: center;
+background-color: white;
+border-color:  purple;
+border-style: dashed;
+border-width: 2px;
+border-radius: 20px;
+}
+
+#blockl3search{
+margin-top: 10px;
+padding:20px 25px;
+border: 2px solid purple;
+border-radius: 20px;
+background-color: #f2ecf9;
+}
+
+.btn{
+font-family: Comic Sans MS;
+background-color: #592d86;
+color: white;
+margin: 5px;
+padding:10px;
+border: 1px solid purple;
+border-radius: 5px;	
+}
+
+/*Form der Felder*/
+input[type=text], select {
+  width: 100%;
+  padding: 5px;
+  margin-top: 8px ;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Comic Sans MS;
+}
+
